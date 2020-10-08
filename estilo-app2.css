@@ -1,10 +1,9 @@
-contenedor{
+.contenedor{
     background-image: url(./climbing.jpg);
     background-repeat: no-repeat;
-    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 0em -10em;
-    object-fit: cover;
+    background-position: -1em -25em;
+    object-fit: contain;
     margin: 0%;
 }
 
