@@ -3,7 +3,7 @@ contenedor{
     background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: -1em -25em;
+    background-position: 0em -10em;
     object-fit: cover;
     margin: 0%;
 }
